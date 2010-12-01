@@ -3,7 +3,7 @@
 //
 
 // Automatically calls all functions in FORMALIZE.init
-jQuery(document).ready(function() {
+$(document).ready(function() {
 	FORMALIZE.go();
 });
 
